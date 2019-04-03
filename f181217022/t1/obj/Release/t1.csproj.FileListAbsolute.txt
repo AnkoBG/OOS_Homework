@@ -1,0 +1,6 @@
+C:\Users\Anko\source\repos\f181217022\t1\bin\Release\t1.exe.config
+C:\Users\Anko\source\repos\f181217022\t1\bin\Release\t1.exe
+C:\Users\Anko\source\repos\f181217022\t1\bin\Release\t1.pdb
+C:\Users\Anko\source\repos\f181217022\t1\obj\Release\t1.csproj.CoreCompileInputs.cache
+C:\Users\Anko\source\repos\f181217022\t1\obj\Release\t1.exe
+C:\Users\Anko\source\repos\f181217022\t1\obj\Release\t1.pdb
