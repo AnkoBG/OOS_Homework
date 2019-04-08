@@ -16,3 +16,11 @@ G:\source\repos\f181217022\t1\obj\Debug\t1.csproj.CoreCompileInputs.cache
 G:\source\repos\f181217022\t1\obj\Debug\t1.csproj.CopyComplete
 G:\source\repos\f181217022\t1\obj\Debug\t1.exe
 G:\source\repos\f181217022\t1\obj\Debug\t1.pdb
+G:\source\repos\OOS_Homework\f181217022\p1\bin\Debug\t1.exe.config
+G:\source\repos\OOS_Homework\f181217022\p1\bin\Debug\t1.exe
+G:\source\repos\OOS_Homework\f181217022\p1\bin\Debug\t1.pdb
+G:\source\repos\OOS_Homework\f181217022\t1\obj\Debug\t1.csprojAssemblyReference.cache
+G:\source\repos\OOS_Homework\f181217022\t1\obj\Debug\t1.csproj.CoreCompileInputs.cache
+G:\source\repos\OOS_Homework\f181217022\t1\obj\Debug\t1.csproj.CopyComplete
+G:\source\repos\OOS_Homework\f181217022\t1\obj\Debug\t1.exe
+G:\source\repos\OOS_Homework\f181217022\t1\obj\Debug\t1.pdb
