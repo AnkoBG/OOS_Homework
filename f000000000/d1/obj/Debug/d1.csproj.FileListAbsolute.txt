@@ -1,6 +1,0 @@
-G:\source\repos\f000000000\d1\bin\Debug\d1.dll
-G:\source\repos\f000000000\d1\bin\Debug\d1.pdb
-G:\source\repos\f000000000\d1\obj\Debug\d1.csprojAssemblyReference.cache
-G:\source\repos\f000000000\d1\obj\Debug\d1.csproj.CoreCompileInputs.cache
-G:\source\repos\f000000000\d1\obj\Debug\d1.dll
-G:\source\repos\f000000000\d1\obj\Debug\d1.pdb
