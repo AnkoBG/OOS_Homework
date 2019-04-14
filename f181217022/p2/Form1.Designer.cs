@@ -38,14 +38,16 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.SortDescButton = new System.Windows.Forms.Button();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.label5 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
             // 
             // GenButton
             // 
-            this.GenButton.Location = new System.Drawing.Point(110, 51);
+            this.GenButton.Location = new System.Drawing.Point(13, 85);
             this.GenButton.Name = "GenButton";
-            this.GenButton.Size = new System.Drawing.Size(75, 23);
+            this.GenButton.Size = new System.Drawing.Size(121, 21);
             this.GenButton.TabIndex = 0;
             this.GenButton.Text = "Generate";
             this.GenButton.UseVisualStyleBackColor = true;
@@ -54,7 +56,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 98);
+            this.label1.Location = new System.Drawing.Point(175, 71);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(83, 13);
             this.label1.TabIndex = 1;
@@ -62,7 +64,7 @@
             // 
             // numericUpDown1
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(153, 96);
+            this.numericUpDown1.Location = new System.Drawing.Point(178, 87);
             this.numericUpDown1.Maximum = new decimal(new int[] {
             30,
             0,
@@ -74,7 +76,7 @@
             0,
             0});
             this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(120, 20);
+            this.numericUpDown1.Size = new System.Drawing.Size(121, 20);
             this.numericUpDown1.TabIndex = 3;
             this.numericUpDown1.Value = new decimal(new int[] {
             8,
@@ -84,9 +86,9 @@
             // 
             // SortButton
             // 
-            this.SortButton.Location = new System.Drawing.Point(18, 155);
+            this.SortButton.Location = new System.Drawing.Point(13, 148);
             this.SortButton.Name = "SortButton";
-            this.SortButton.Size = new System.Drawing.Size(114, 23);
+            this.SortButton.Size = new System.Drawing.Size(121, 21);
             this.SortButton.TabIndex = 4;
             this.SortButton.Text = "Sort";
             this.SortButton.UseVisualStyleBackColor = true;
@@ -94,9 +96,9 @@
             // 
             // ViewButton
             // 
-            this.ViewButton.Location = new System.Drawing.Point(110, 208);
+            this.ViewButton.Location = new System.Drawing.Point(13, 211);
             this.ViewButton.Name = "ViewButton";
-            this.ViewButton.Size = new System.Drawing.Size(75, 23);
+            this.ViewButton.Size = new System.Drawing.Size(121, 21);
             this.ViewButton.TabIndex = 5;
             this.ViewButton.Text = "View";
             this.ViewButton.UseVisualStyleBackColor = true;
@@ -104,16 +106,16 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(153, 12);
+            this.textBox1.Location = new System.Drawing.Point(178, 31);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(120, 20);
+            this.textBox1.Size = new System.Drawing.Size(121, 20);
             this.textBox1.TabIndex = 6;
             this.textBox1.Text = "name.txt";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(38, 15);
+            this.label2.Location = new System.Drawing.Point(77, 34);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(57, 13);
             this.label2.TabIndex = 7;
@@ -131,7 +133,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(15, 257);
+            this.label4.Location = new System.Drawing.Point(12, 257);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(47, 13);
             this.label4.TabIndex = 9;
@@ -139,19 +141,42 @@
             // 
             // SortDescButton
             // 
-            this.SortDescButton.Location = new System.Drawing.Point(175, 155);
+            this.SortDescButton.Location = new System.Drawing.Point(178, 139);
             this.SortDescButton.Name = "SortDescButton";
-            this.SortDescButton.Size = new System.Drawing.Size(114, 23);
+            this.SortDescButton.Size = new System.Drawing.Size(121, 21);
             this.SortDescButton.TabIndex = 10;
             this.SortDescButton.Text = "Sort Descending";
             this.SortDescButton.UseVisualStyleBackColor = true;
             this.SortDescButton.Click += new System.EventHandler(this.SortDescButton_Click);
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Items.AddRange(new object[] {
+            "Locally",
+            "On a server"});
+            this.comboBox1.Location = new System.Drawing.Point(178, 211);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(121, 21);
+            this.comboBox1.TabIndex = 11;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(175, 195);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(103, 13);
+            this.label5.TabIndex = 12;
+            this.label5.Text = "Execute commands:";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(311, 318);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.SortDescButton);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -182,6 +207,8 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button SortDescButton;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.Label label5;
     }
 }
 

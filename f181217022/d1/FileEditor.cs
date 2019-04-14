@@ -20,6 +20,8 @@ namespace d1
             }
 
             File.WriteAllText(filename, randNum);
+
+            Console.WriteLine("File generated succesfully.");
         }
 
         public static void View(string filename)
@@ -60,6 +62,7 @@ namespace d1
             }
             
             File.WriteAllText(filename, numbersString);
+            Console.WriteLine("File sorted succesfully.");
         }
 
         public static void DisplayHelp()

@@ -1,0 +1,17 @@
+G:\source\repos\OOS_Homework\f181217022\S1\obj\Debug\netcoreapp2.1\S1.csprojAssemblyReference.cache
+G:\source\repos\OOS_Homework\f181217022\S1\obj\Debug\netcoreapp2.1\S1.csproj.CoreCompileInputs.cache
+G:\source\repos\OOS_Homework\f181217022\S1\obj\Debug\netcoreapp2.1\S1.AssemblyInfoInputs.cache
+G:\source\repos\OOS_Homework\f181217022\S1\obj\Debug\netcoreapp2.1\S1.AssemblyInfo.cs
+G:\source\repos\OOS_Homework\f181217022\S1\bin\Debug\netcoreapp2.1\S1.deps.json
+G:\source\repos\OOS_Homework\f181217022\S1\bin\Debug\netcoreapp2.1\S1.runtimeconfig.json
+G:\source\repos\OOS_Homework\f181217022\S1\bin\Debug\netcoreapp2.1\S1.runtimeconfig.dev.json
+G:\source\repos\OOS_Homework\f181217022\S1\bin\Debug\netcoreapp2.1\S1.dll
+G:\source\repos\OOS_Homework\f181217022\S1\bin\Debug\netcoreapp2.1\S1.pdb
+G:\source\repos\OOS_Homework\f181217022\S1\obj\Debug\netcoreapp2.1\S1.dll
+G:\source\repos\OOS_Homework\f181217022\S1\obj\Debug\netcoreapp2.1\S1.pdb
+G:\source\repos\OOS_Homework\f181217022\S1\bin\Debug\netcoreapp2.1\d1.dll
+G:\source\repos\OOS_Homework\f181217022\S1\bin\Debug\netcoreapp2.1\p1.exe
+G:\source\repos\OOS_Homework\f181217022\S1\bin\Debug\netcoreapp2.1\p1.pdb
+G:\source\repos\OOS_Homework\f181217022\S1\bin\Debug\netcoreapp2.1\p1.exe.config
+G:\source\repos\OOS_Homework\f181217022\S1\bin\Debug\netcoreapp2.1\d1.pdb
+G:\source\repos\OOS_Homework\f181217022\S1\obj\Debug\netcoreapp2.1\S1.csproj.CopyComplete
